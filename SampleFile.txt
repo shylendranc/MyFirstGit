@@ -1,0 +1,2 @@
+This is s sample file.
+Just to test the Git
